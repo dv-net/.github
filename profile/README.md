@@ -1,6 +1,8 @@
 # DV.net 
 
-![DV.net](assets/01.main-banner.png)
+<div align="center">
+  <img src="assets/01.main-banner.png">
+</div>
 
 
 
