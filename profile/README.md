@@ -7,7 +7,6 @@
     <a href="blob/main/profile/ru/README.md">
       🇷🇺 Русский
     </a>
-    </a>
     <span> | </span>
     <a href="blob/main/profile/zh/README.md">
       🇨🇳 中国人
