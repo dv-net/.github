@@ -1,14 +1,14 @@
 <div align="right">
   <h3>
-    <a href="README.md">
+    <a href="https://github.com/dv-net/.github/blob/main/profile/README.md">
       🇬🇧 English
     </a>
     <span> | </span>
-    <a href="ru/README.md">
+    <a href="https://github.com/dv-net/.github/blob/main/profile/ru/README.md">
       🇷🇺 Русский
     </a>
     <span> | </span>
-    <a href="zh/README.md">
+    <a href="https://github.com/dv-net/.github/blob/main/profile/ru/zh/README.md">
       🇨🇳 中国人
     </a>
   </h3>
