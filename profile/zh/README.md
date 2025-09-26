@@ -1,3 +1,20 @@
+<div align="right">
+  <h3>
+    <a href="blob/master/README.md">
+      🇬🇧 English
+    </a>
+    <span> | </span>
+    <a href="blob/master/ru/README.md">
+      🇷🇺 Русский
+    </a>
+    </a>
+    <span> | </span>
+    <a href="blob/master/zh/README.md">
+      🇨🇳 中国人
+    </a>
+  </h3>
+</div>
+
 # DV.net
 
 <div align="center">
