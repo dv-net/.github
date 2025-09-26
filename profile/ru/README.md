@@ -8,7 +8,7 @@
       🇷🇺 Русский
     </a>
     <span> | </span>
-    <a href="https://github.com/dv-net/.github/blob/main/profile/ru/zh/README.md">
+    <a href="https://github.com/dv-net/.github/blob/main/profile/zh/README.md">
       🇨🇳 中国人
     </a>
   </h3>
