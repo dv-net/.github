@@ -1,14 +1,14 @@
 <div align="right">
   <h3>
-    <a href="blob/main/profile/README.md">
+    <a href="README.md">
       🇬🇧 English
     </a>
     <span> | </span>
-    <a href="blob/main/profile/ru/README.md">
+    <a href="ru/README.md">
       🇷🇺 Русский
     </a>
     <span> | </span>
-    <a href="blob/main/profile/zh/README.md">
+    <a href="zh/README.md">
       🇨🇳 中国人
     </a>
   </h3>
