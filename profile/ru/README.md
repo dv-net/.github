@@ -1,5 +1,3 @@
-# DV.net
-
 <div align="right">
   <h3>
     <a href="blob/master/README.md">
@@ -16,6 +14,8 @@
     </a>
   </h3>
 </div>
+
+# DV.net
 
 
 <div align="center">
