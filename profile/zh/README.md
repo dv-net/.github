@@ -95,7 +95,7 @@
 使用提供的脚本安装商家：
 
 ```bash
-sudo bash -c "$(curl -fsSL [https://dv.net/install.sh](https://dv.net/install.sh))"
+sudo bash -c "$(curl -fsSL https://dv.net/install.sh)"
 ````
 
 请注意，如果您的服务器上有防火墙，您需要将 **80 和 443 端口**添加到例外中。

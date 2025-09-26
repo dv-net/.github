@@ -95,7 +95,7 @@
 Установите мерчанта с помощью предоставленного скрипта:
 
 ```bash
-sudo bash -c "$(curl -fsSL [https://dv.net/install.sh](https://dv.net/install.sh))"
+sudo bash -c "$(curl -fsSL https://dv.net/install.sh)"
 ```
 
 Обратите внимание, если на вашем сервере установлен брандмауэр, вам необходимо добавить порты 80, 443 в исключения.
