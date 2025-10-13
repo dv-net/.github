@@ -62,45 +62,45 @@
 <table>
 <tr>
 <td align="center" width="14%">
-<img src="assets/icons/coins/IconTrxTron.png" style="width: 24px"><br>
-<b>TRON</b>
+<img src="assets/icons/coins/IconBtcBitcoin.png" style="width: 24px"><br>
+<b>Bitcoin</b><br>BTC
 </td>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconEthEthereum.png" style="width: 24px"><br>
-<b>Ethereum</b>
+<b>Ethereum</b><br>ETH, USDT, USDC, DAI
 </td>
 <td align="center" width="14%">
-<img src="assets/icons/coins/IconLtcLitecoin.png" style="width: 24px"><br>
-<b>Litecoin</b>
+<img src="assets/icons/coins/IconTrxTron.png" style="width: 24px"><br>
+<b>TRON</b><br>TRX, USDT
+</td>
+<td align="center" width="14%">
+<img src="assets/icons/coins/IconBsc.png" style="width: 24px"><br>
+<b>BNB Chain</b><br>BNB, USDT, USDC, DAI
 </td>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconPolPolygon.png" style="width: 24px"><br>
-<b>Polygon</b>
+<b>Polygon</b><br>POL, USDT, USDC, DAI
 </td>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconArbArbitrum.png" style="width: 24px"><br>
-<b>Arbitrum</b>
+<b>Arbitrum</b><br>ETH, USDT, USDC, DAI
 </td>
 <td align="center" width="14%">
-<img src="assets/icons/coins/IconDogeDogecoin.png" style="width: 24px"><br>
-<b>Dogecoin</b>
+<img src="assets/icons/coins/IconLtcLitecoin.png" style="width: 24px"><br>
+<b>Litecoin</b><br>LTC
 </td>
 </tr>
 <tr>
 <td align="center" width="14%">
-<img src="assets/icons/coins/IconBtcBitcoin.png" style="width: 24px"><br>
-<b>Bitcoin</b>
-</td>
-<td align="center" width="14%">
-<img src="assets/icons/coins/IconBsc.png" style="width: 24px"><br>
-<b>BNB Chain</b>
-</td>
-<td align="center" width="14%">
 <img src="assets/icons/coins/IconBchBitcoinCash.png" style="width: 24px"><br>
-<b>Bitcoin Cash</b>
+<b>Bitcoin Cash</b><br>BCH
+</td>
+<td align="center" width="14%">
+<img src="assets/icons/coins/IconDogeDogecoin.png" style="width: 24px"><br>
+<b>Dogecoin</b><br>DOGE
 </td>
 <td align="center" colspan="5">
-<b>And other popular cryptocurrencies…</b>
+<b>И другие популярные криптовалюты...</b>
 </td>
 </tr>
 </table>
