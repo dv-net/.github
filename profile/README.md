@@ -294,12 +294,14 @@ Guides for installation, configuration and usage
 ### 🔌 [API Reference](https://docs.dv.net/en/operations/post-v1-external-wallet.html)
 Integration and API usage docs
 
+<br>
 </td>
 <td width="33%" align="center">
 
 ### 💬 [Support 24/7](https://dv.net/#support)
 Telegram, WhatsApp, WeChat, Email — we’re always online
 
+<br>
 </td>
 </tr>
 </table>
