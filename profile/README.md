@@ -20,11 +20,7 @@
 
 </div>
 
-<br>
-
 ---
-
-<br>
 
 ## 💡 About the project
 
