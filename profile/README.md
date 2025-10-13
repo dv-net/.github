@@ -36,8 +36,6 @@
 |:---:|:---:|:---:|:---:|
 | Auditable security by anyone | Only the network fee | You keep full control of keys | Or use the managed cloud |
 
-<br>
-
 ## ✨ Features
 
 <table>
@@ -45,7 +43,7 @@
 <td width="50%">
 
 ### 🎯 Core
-- ✅ **Zero platform fees** — you pay the network only
+- ✅ **Zero fees** — you pay the network only
 - ✅ **Open Source** — verifiable codebase
 - ✅ **Non‑custodial** — your keys, your coins
 - ✅ **No KYC/KYB** — skip bureaucracy
