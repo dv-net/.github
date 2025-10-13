@@ -187,6 +187,7 @@ sudo bash -c "$(curl -fsSL https://dv.net/install.sh)"
 [📖 Documentation](https://docs.dv.net)
 
 <br>
+<br>
 </td>
 <td width="50%">
 
