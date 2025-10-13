@@ -81,7 +81,7 @@
 <img src="assets/icons/coins/IconEthEthereum.png" style="width: 24px"><br>
 <b>Ethereum</b><br>ETH, USDT, USDC, DAI
 </td>
-<td align="center" width="14%">
+<td align="center" width="20%">
 <img src="assets/icons/coins/IconArbArbitrum.png" style="width: 24px"><br>
 <b>Arbitrum</b><br>ETH, USDT, USDC, DAI
 </td>
@@ -90,8 +90,8 @@
 <b>Dogecoin</b><br>DOGE
 </td>
 <td align="center" width="14%">
-<img src="assets/icons/coins/IconPolPolygon.png" style="width: 24px"><br>
-<b>Polygon</b><br>POL, USDT, USDC, DAI
+<img src="assets/icons/coins/IconLtcLitecoin.png" style="width: 24px"><br>
+<b>Litecoin</b><br>LTC
 </td>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconBchBitcoinCash.png" style="width: 24px"><br>
@@ -107,9 +107,9 @@
 <img src="assets/icons/coins/IconBsc.png" style="width: 24px"><br>
 <b>BNB Chain</b><br>BNB, USDT, USDC, DAI
 </td>
-<td align="center" width="14%">
-<img src="assets/icons/coins/IconLtcLitecoin.png" style="width: 24px"><br>
-<b>Litecoin</b><br>LTC
+<td align="center" width="20%">
+<img src="assets/icons/coins/IconPolPolygon.png" style="width: 24px"><br>
+<b>Polygon</b><br>POL, USDT, USDC, DAI
 </td>
 <td align="center" colspan="4">
 <b>И другие популярные криптовалюты...</b>
