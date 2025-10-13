@@ -2,7 +2,7 @@
 
 # 🚀 DV.net Merchant
 
-### Бесплатный криптопроцессинг с открытым исходным кодом
+### Free, open‑source crypto payments processing
 
 <img src="assets/01.main-banner.png" alt="DV.net Banner" width="100%" style="border-radius: 24px; margin: 20px 0;">
 
@@ -13,44 +13,44 @@
 
 [🇬🇧 English](https://github.com/dv-net/.github/blob/main/profile/README.md) • [🇷🇺 Русский](https://github.com/dv-net/.github/blob/main/profile/ru/README.md) • [🇨🇳 中国人](https://github.com/dv-net/.github/blob/main/profile/zh/README.md)
 
-[Веб-сайт](https://dv.net) • [Документация](https://docs.dv.net) • [API](https://docs.dv.net/en/operations/post-v1-external-wallet.html) • [Поддержка](https://dv.net/#support)
+[Website](https://dv.net) • [Docs](https://docs.dv.net) • [API](https://docs.dv.net/en/operations/post-v1-external-wallet.html) • [Support](https://dv.net/#support)
 
 </div>
 
 ---
 
-## 💡 О проекте
+## 💡 About the project
 
-**DV.net** — это полностью бесплатный криптопроцессинг для приёма и отправки криптовалюты на вашем сайте. Вы платите **только комиссию сети**, без посредников и скрытых платежей.
+**DV.net** is a completely free crypto payment processor to receive and send crypto on your website. You pay **network fees only** — no middlemen and no hidden charges.
 
-### ⚡ Почему DV.net?
+### ⚡ Why DV.net?
 
-| 🔓 **Открытый код** | 💰 **Без комиссий** | 🔐 **Некастодиальный** | ⚙️ **Self-hosted** |
+| 🔓 **Open Source** | 💰 **Zero Fees** | 🔐 **Non‑custodial** | ⚙️ **Self‑hosted** |
 |:---:|:---:|:---:|:---:|
-| Любой может проверить безопасность | Только сетевая комиссия | Полный контроль над ключами | Или используйте облачную версию |
+| Auditable security by anyone | Only the network fee | You keep full control of keys | Or use the managed cloud |
 
 ---
 
-## ✨ Возможности
+## ✨ Features
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎯 Основные
-- ✅ **Zero комиссий** — платите только сети
-- ✅ **Open Source** — проверяемый код
-- ✅ **Некастодиальность** — ваши ключи, ваши монеты
-- ✅ **Без KYC/KYB** — без бюрократии
+### 🎯 Core
+- ✅ **Zero platform fees** — you pay the network only
+- ✅ **Open Source** — verifiable codebase
+- ✅ **Non‑custodial** — your keys, your coins
+- ✅ **No KYC/KYB** — skip bureaucracy
 
 </td>
 <td width="50%">
 
-### 🔧 Технические
-- ✅ **API для отправки** криптовалюты
-- ✅ **Поддержка CEX** (Binance, HTX, OKX и др.)
-- ✅ **Self-hosted** или облако
-- ✅ **Делегирование TRON**
+### 🔧 Technical
+- ✅ **Payout API** to send crypto
+- ✅ **CEX support** (Binance, HTX, OKX, etc.)
+- ✅ **Self‑hosted** or Cloud
+- ✅ **TRON delegation**
 
 </td>
 </tr>
@@ -58,7 +58,7 @@
 
 ---
 
-## 💎 Поддерживаемые криптовалюты
+## 💎 Supported cryptocurrencies
 
 <table>
 <tr>
@@ -101,12 +101,12 @@
 <b>Dogecoin</b><br>DOGE
 </td>
 <td align="center" colspan="5">
-<b>И другие популярные криптовалюты...</b>
+<b>And other popular cryptocurrencies…</b>
 </td>
 </tr>
 </table>
 
-### 🏦 Поддерживаемые биржи (CEX)
+### 🏦 Supported exchanges (CEX)
 <div align="center">
 <img src="assets/icons/exchanges/binance.png" style="width:24px; vertical-align:middle;" alt="Binance"> <strong>Binance</strong> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/icons/exchanges/htx.png" style="width:24px; vertical-align:middle;" alt="HTX"> <strong>HTX</strong> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -119,65 +119,65 @@
 
 ---
 
-## 🎬 Живая демоверсия
+## 🎬 Live demo
 
-Попробуйте реальную работу системы с настоящими транзакциями:
+Try the product with real transactions:
 
 <div align="center">
 
-### [🎮 Демо Панель](https://demo.dv.net/dv-admin/dashboard) • [💳 Демо Оплата](https://demo.dv.net/pay/wallet/7d029e2e-840b-46f8-b898-2694306d119d?amount=15)
+### [🎮 Demo Admin](https://demo.dv.net/dv-admin/dashboard) • [💳 Demo Checkout](https://demo.dv.net/pay/wallet/7d029e2e-840b-46f8-b898-2694306d119d?amount=15)
 
 </div>
 
 ---
 
-## 🚀 Варианты установки
+## 🚀 Installation options
 
 <table>
 <tr>
 <td width="33%" align="center" style="vertical-align: top">
 
-### 🖥️ Self-Hosted
-**Полный контроль над данными**
+### 🖥️ Self‑Hosted
+**Full control over your data**
 
-**Система:** Linux (Ubuntu 22.04+, Debian 12, CentOS 9)  
-**Требования:** 4 CPU, 4 GB RAM, 30 GB NVMe SSD
+**OS:** Linux (Ubuntu 22.04+, Debian 12, CentOS 9)  
+**Requirements:** 4 CPU, 4 GB RAM, 30 GB NVMe SSD
 
 ```bash
 sudo bash -c "$(curl -fsSL https://dv.net/install.sh)"
 ```
 
-**✅ Для продакшена**  
-**✅ Максимальная безопасность**  
-**✅ Без ежемесячных платежей**
+**✅ Production‑ready**  
+**✅ Maximum security**  
+**✅ No monthly fees**
 
-[📖 Подробнее](https://docs.dv.net) • [⚙️ Настроить](https://docs.dv.net/en/installation/installation.html)
+[📖 Learn more](https://docs.dv.net) • [⚙️ Setup](https://docs.dv.net/en/installation/installation.html)
 
 </td>
 <td width="33%" align="center" style="vertical-align: top">
 
-### ☁️ Облачная версия
-**Самый быстрый старт**
+### ☁️ Cloud
+**Fastest way to start**
 
-**Время запуска:** 5 минут  
-**Поддержка:** 24/7  
+**Time to go live:** 5 minutes  
+**Support:** 24/7
 
-[🚀 **Начать сейчас**](https://cloud.dv.net/dv-admin/auth/sign-up)
+[🚀 **Start now**](https://cloud.dv.net/dv-admin/auth/sign-up)
 
-**✅ Без установки**  
-**✅ Готовое решение**  
-**✅ Техподдержка включена**
+**✅ No installation**  
+**✅ Managed solution**  
+**✅ Support included**
 
-[📖 Документация](https://docs.dv.net)
+[📖 Documentation](https://docs.dv.net)
 
 </td>
 <td width="33%" align="center" style="vertical-align: top">
 
 ### 🐳 Docker
-**Для разработчиков**
+**For developers**
 
-**Время запуска:** 2 минуты  
-**Результат:** `localhost:80`
+**Time to run:** 2 minutes  
+**Result:** `localhost:80`
 
 ```bash
 git clone --recursive https://github.com/dv-net/dv-bundle.git
@@ -185,9 +185,9 @@ cd dv-bundle && cp .env.example .env
 docker compose up -d
 ```
 
-**✅ Для разработки**  
-**✅ Локальное тестирование**  
-**✅ Демонстрация**
+**✅ Local development**  
+**✅ Local testing**  
+**✅ Demos**
 
 [💻 GitHub](https://github.com/dv-net/dv-bundle)
 
@@ -195,89 +195,89 @@ docker compose up -d
 </tr>
 </table>
 
-### 🖥️ Self-Hosted установка
+### 🖥️ Self‑Hosted installation
 
-Полный контроль над данными и инфраструктурой. Рекомендуется для продакшена.
+Full control over data and infrastructure. Recommended for production.
 
-**Системные требования:**
-- **ОС:** CentOS 9, Debian 12, Ubuntu 22.04, Ubuntu 24.04
-- **CPU:** 4 ядра
+**System requirements:**
+- **OS:** CentOS 9, Debian 12, Ubuntu 22.04, Ubuntu 24.04
+- **CPU:** 4 cores
 - **RAM:** 4 GB
-- **Диск:** 30 GB NVMe SSD
-- **Сеть:** Открытые порты 80, 443
+- **Disk:** 30 GB NVMe SSD
+- **Network:** Open ports 80, 443
 
-**Установка одной командой:**
+**One‑liner install:**
 
 ```bash
 sudo bash -c "$(curl -fsSL https://dv.net/install.sh)"
 ```
 
-Скрипт автоматически:
-- Проверит системные требования
-- Установит все необходимые зависимости
-- Настроит базу данных
-- Запустит все сервисы
+The installer will:
+- Check system requirements
+- Install dependencies
+- Configure the database
+- Start all services
 
-> **⚠️ Важно:** Если у вас включён файрвол (firewall), не забудьте открыть порты `80` и `443`:
+> **⚠️ Important:** If firewall is enabled, open ports `80` and `443`:
 > ```bash
 > sudo ufw allow 80/tcp
 > sudo ufw allow 443/tcp
 > ```
 
-**После установки:**
+**After installation:**
 
-1. Откройте браузер и перейдите на:
-    - `https://ваш-домен.com` (если настроен домен)
-    - `http://ваш-ip-адрес` (если используете IP)
+1. Open in the browser:
+    - `https://your-domain.com` (if a domain is configured)
+    - `http://your-ip-address` (if using IP)
 
-2. Вы увидите экран приветствия мастера установки
+2. You’ll see the setup wizard welcome screen
 
-3. Создание администратора
+3. Create the admin user
 
-4. После завершения настройки войдите в панель управления
+4. Log in to the dashboard
 
-5. Подключите биржу (Binance, HTX, OKX и др.)
+5. Connect your exchange (Binance, HTX, OKX, etc.)
 
-6. Начните принимать криптовалюту!
+6. Start accepting crypto!
 
-**Преимущества:**
-- ✅ Полный контроль над данными
-- ✅ Максимальная безопасность
-- ✅ Возможность кастомизации
-- ✅ Независимость от облачных сервисов
-- ✅ Без ежемесячных платежей
+**Benefits:**
+- ✅ Full data ownership
+- ✅ Maximum security
+- ✅ Customizable
+- ✅ Independent from cloud providers
+- ✅ No monthly fees
 
-**Идеально подходит для:**
-- 🎯 Крупного бизнеса с высокими требованиями к безопасности
-- 🎯 Компаний с собственной IT-инфраструктурой
-- 🎯 Проектов с особыми требованиями к конфиденциальности
+**Great for:**
+- 🎯 Enterprises with strict security
+- 🎯 Teams with own infrastructure
+- 🎯 Projects with privacy requirements
 
-**Дополнительные настройки:**
+**More setup options:**
 
-Полная документация по установке: [docs.dv.net](https://docs.dv.net)
+Full installation docs: [docs.dv.net](https://docs.dv.net)
 
 ---
 
-## 📚 Документация
+## 📚 Documentation
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 📖 [Полная документация](https://docs.dv.net)
-Подробные руководства по установке, настройке и использованию
+### 📖 [Full documentation](https://docs.dv.net)
+Guides for installation, configuration and usage
 
 </td>
 <td width="33%" align="center">
 
 ### 🔌 [API Reference](https://docs.dv.net/en/operations/post-v1-external-wallet.html)
-Документация по интеграции и использованию API
+Integration and API usage docs
 
 </td>
 <td width="33%" align="center">
 
-### 💬 [Поддержка 24/7](https://dv.net/#support)
-Telegram, WhatsApp, WeChat, Email — мы всегда на связи
+### 💬 [Support 24/7](https://dv.net/#support)
+Telegram, WhatsApp, WeChat, Email — we’re always online
 
 </td>
 </tr>
@@ -285,69 +285,69 @@ Telegram, WhatsApp, WeChat, Email — мы всегда на связи
 
 ---
 
-## 🔐 Безопасность
+## 🔐 Security
 
-### Как мы защищаем ваши средства
+### How we protect your funds
 
-1. **🔒 Некастодиальность** — все кошельки хранятся только у вас, мы не имеем к ним доступа
-2. **⚡ Мгновенный перевод** — средства сразу отправляются на биржу или ваш личный кошелёк
-3. **🏠 Self-hosted** — полный контроль при установке на ваш сервер
-4. **🔍 Открытый код** — любой может проверить безопасность системы
+1. **🔒 Non‑custodial** — wallets live on your side only, we have no access
+2. **⚡ Immediate settlement** — funds go straight to your exchange or wallet
+3. **🏠 Self‑hosted** — full control on your own server
+4. **🔍 Open Source** — anyone can audit the code
 
 ---
 
-## 🛠 Разработка
+## 🛠 Development
 
-Для разработчиков, желающих улучшить проект:
+For developers who want to contribute:
 
 ```bash
-# Клонирование репозитория
+# Clone the repository
 git clone https://github.com/dv-net/dv-merchant.git
 cd dv-merchant
 
-# Установка зависимостей
+# Download dependencies
 go mod download
 
-# Запуск тестов
+# Run tests
 make test
 
-# Линтинг кода
+# Lint code
 make lint
 
-# Сборка
+# Build
 make build
 ```
 
-Подробнее в [dv-merchant](https://github.com/dv-net/dv-merchant) для разработчиков.
+See more in [dv-merchant](https://github.com/dv-net/dv-merchant) for developers.
 
 ---
 
-## 🤝 Поддержка проекта
+## 🤝 Support the project
 
 <table>
 <tr>
 <td width="25%" align="center">
 
-### ⭐ Star на GitHub
-Поставьте звезду, если проект полезен
+### ⭐ Star on GitHub
+Give us a star if this project helps you
 
 </td>
 <td width="25%" align="center">
 
-### 🐛 Сообщить об ошибке
-Помогите нам стать лучше
+### 🐛 Report a bug
+Help us get better
 
 </td>
 <td width="25%" align="center">
 
-### 💡 Предложить идею
-Ваши идеи важны для нас
+### 💡 Suggest an idea
+Your ideas matter
 
 </td>
 <td width="25%" align="center">
 
-### 🔧 Внести вклад
-Pull requests приветствуются
+### 🔧 Contribute
+Pull requests are welcome
 
 </td>
 </tr>
@@ -355,7 +355,7 @@ Pull requests приветствуются
 
 ---
 
-## 📞 Контакты
+## 📞 Contacts
 
 <div align="center">
 
@@ -367,14 +367,14 @@ Pull requests приветствуются
 
 ---
 
-## 📄 Лицензия
+## 📄 License
 
-Этот проект распространяется под лицензией [MIT](LICENSE).
+This project is released under the [MIT](LICENSE) license.
 
 <div align="center">
 
 **© 2025 DV.net** • [DV Technologies Ltd.](https://dv.net)
 
-*Сделано с ❤️ для криптосообщества*
+*Built with ❤️ for the crypto community*
 
 </div>
