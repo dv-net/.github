@@ -73,16 +73,14 @@ You pay **network fees only** — no middlemen and no hidden charges.
 
 <div align="center">
 
-<img src="assets/icons/coins/IconBtcBitcoin.png" style="width: 24px; vertical-align: text-bottom;"> **Bitcoin** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconTrxTron.png" style="width: 24px; vertical-align: text-bottom;"> **TRON** &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="assets/icons/coins/IconEthEthereum.png" style="width: 24px; vertical-align: text-bottom;"> **Ethereum** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconBsc.png" style="width: 24px; vertical-align: text-bottom;"> **BNB Chain** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconLtcLitecoin.png" style="width: 24px; vertical-align: text-bottom;"> **Litecoin** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconDogeDogecoin.png" style="width: 24px; vertical-align: text-bottom;"> **Dogecoin** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconArbArbitrum.png" style="width: 24px; vertical-align: text-bottom;"> **Arbitrum** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconPolPolygon.png" style="width: 24px; vertical-align: text-bottom;"> **Polygon** &nbsp;&nbsp;&nbsp;&nbsp;
-
-**And other popular cryptocurrencies...**
+<img src="assets/icons/coins/IconBtcBitcoin.png" width="16"> **Bitcoin** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconTrxTron.png" width="16"> **TRON** &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="assets/icons/coins/IconEthEthereum.png" width="16"> **Ethereum** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconBsc.png" width="16"> **BNB Chain** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconLtcLitecoin.png" width="16"> **Litecoin** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconDogeDogecoin.png" width="16"> **Dogecoin** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconArbArbitrum.png" width="16"> **Arbitrum** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconPolPolygon.png" width="16"> **Polygon** &nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
@@ -90,13 +88,13 @@ You pay **network fees only** — no middlemen and no hidden charges.
 
 ### 🏦 Supported exchanges (CEX)
 <div align="center">
-<img src="assets/icons/exchanges/binance.png" style="width:24px; vertical-align:middle;" alt="Binance"> <strong>Binance</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/exchanges/htx.png" style="width:24px; vertical-align:middle;" alt="HTX"> <strong>HTX</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/exchanges/okx.png" style="width:24px; vertical-align:middle;" alt="OKX"> <strong>OKX</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/exchanges/kukoin.png" style="width:24px; vertical-align:middle;" alt="KuCoin"> <strong>KuCoin</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/exchanges/bybit.png" style="width:24px; vertical-align:middle;" alt="Bybit"> <strong>Bybit</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/exchanges/bitget.png" style="width:24px; vertical-align:middle;" alt="Bitget"> <strong>Bitget</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/exchanges/gate.png" style="width:24px; vertical-align:middle;" alt="Gate"> <strong>Gate</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/exchanges/binance.png" width="20" alt="Binance"> <strong>Binance</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/exchanges/htx.png" width="20" alt="HTX"> <strong>HTX</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/exchanges/okx.png" width="20" alt="OKX"> <strong>OKX</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/exchanges/kukoin.png" width="20" alt="KuCoin"> <strong>KuCoin</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/exchanges/bybit.png" width="20" alt="Bybit"> <strong>Bybit</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/exchanges/bitget.png" width="20" alt="Bitget"> <strong>Bitget</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/exchanges/gate.png" width="20" alt="Gate"> <strong>Gate</strong> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br>
