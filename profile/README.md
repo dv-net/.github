@@ -79,7 +79,7 @@
 </td>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconEthEthereum.png" style="width: 24px"><br>
-<b>Ethereum</b><br>ETH, USDT, USDC, DAI
+<b>Ethereum</b><br>ETH, USDT, USDC, DAI<br>
 </td>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconTrxTron.png" style="width: 24px"><br>
