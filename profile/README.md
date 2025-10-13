@@ -90,10 +90,6 @@
 <b>Dogecoin</b><br>DOGE
 </td>
 <td align="center" width="14%">
-<img src="assets/icons/coins/IconLtcLitecoin.png" style="width: 24px"><br>
-<b>Litecoin</b><br>LTC
-</td>
-<td align="center" width="14%">
 <img src="assets/icons/coins/IconBchBitcoinCash.png" style="width: 24px"><br>
 <b>Bitcoin Cash</b><br>BCH
 </td>
@@ -111,8 +107,12 @@
 <img src="assets/icons/coins/IconPolPolygon.png" style="width: 24px"><br>
 <b>Polygon</b><br>POL, USDT, USDC, DAI
 </td>
-<td align="center" colspan="4">
-<b>И другие популярные криптовалюты...</b>
+<td align="center" width="14%">
+<img src="assets/icons/coins/IconLtcLitecoin.png" style="width: 24px"><br>
+<b>Litecoin</b><br>LTC
+</td>
+<td align="center" colspan="3">
+<b>And other cryptocurrencies...</b>
 </td>
 </tr>
 </table>
