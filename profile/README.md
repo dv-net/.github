@@ -30,32 +30,40 @@
 
 ## 💡 About the project
 
-**DV.net** is a completely free crypto payment processor to receive and send crypto on your website. You pay **network fees only** — no middlemen and no hidden charges.
+**DV.net** is a completely free crypto payment processor to receive and send crypto on your website. <br>
+You pay **network fees only** — no middlemen and no hidden charges.
 
 <br>
 
 ### ⚡ Why DV.net?
 
-| 🔓 **Open Source** | 💰 **Zero Fees** | 🔐 **Non‑custodial** | ⚙️ **Self‑hosted** |
-|:---:|:---:|:---:|:---:|
-| Auditable security by anyone | Only the network fee | You keep full control of keys | Or use the managed cloud |
+<div align="center">
+
+> ### 🔓 **Open Source**
+> Auditable security by anyone
+
+> ### 💰 **Zero Fees**
+> Only the network fee
+
+> ### 🔐 **Non‑custodial**
+> You keep full control of keys
+
+> ### ⚙️ **Self‑hosted**
+> Or use the managed cloud
+
+</div>
 
 <br>
 
 ## ✨ Features
 
-<table>
-<tr>
-<td width="50%">
+<div>
 
 ### 🎯 Core
 - ✅ **Zero platform fees** — you pay the network only
 - ✅ **Open Source** — verifiable codebase
 - ✅ **Non‑custodial** — your keys, your coins
 - ✅ **No KYC/KYB** — skip bureaucracy
-<br>
-</td>
-<td width="50%">
 
 ### 🔧 Technical
 - ✅ **Payout API** to send crypto
@@ -63,59 +71,27 @@
 - ✅ **Self‑hosted** or Cloud
 - ✅ **TRON delegation**
 
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
 ## 💎 Supported cryptocurrencies
 
-<table>
-<tr>
-<td align="center" width="14%">
-<img src="assets/icons/coins/IconBtcBitcoin.png" style="width: 24px"><br>
-<b>Bitcoin</b><br>BTC
-</td>
-<td align="center" width="22%">
-<img src="assets/icons/coins/IconEthEthereum.png" style="width: 24px"><br>
-<b>Ethereum</b><br>ETH, USDT, USDC, DAI
-</td>
-<td align="center" width="22%">
-<img src="assets/icons/coins/IconArbArbitrum.png" style="width: 24px"><br>
-<b>Arbitrum</b><br>ETH, USDT, USDC, DAI
-</td>
-<td align="center" width="14%">
-<img src="assets/icons/coins/IconDogeDogecoin.png" style="width: 24px"><br>
-<b>Dogecoin</b><br>DOGE
-</td>
-<td align="center" width="14%">
-<img src="assets/icons/coins/IconBchBitcoinCash.png" style="width: 24px"><br>
-<b>Bitcoin Cash</b><br>BCH
-</td>
-</tr>
-<tr>
-<td align="center" width="14%">
-<img src="assets/icons/coins/IconTrxTron.png" style="width: 24px"><br>
-<b>TRON</b><br>TRX, USDT
-</td>
-<td align="center" width="22%">
-<img src="assets/icons/coins/IconBsc.png" style="width: 24px"><br>
-<b>BNB Chain</b><br>BNB, USDT, USDC, DAI
-</td>
-<td align="center" width="22%">
-<img src="assets/icons/coins/IconPolPolygon.png" style="width: 24px"><br>
-<b>Polygon</b><br>POL, USDT, USDC, DAI
-</td>
-<td align="center" width="14%">
-<img src="assets/icons/coins/IconLtcLitecoin.png" style="width: 24px"><br>
-<b>Litecoin</b><br>LTC
-</td>
-<td align="center" colspan="3">
-<b>And other cryptocurrencies...</b>
-</td>
-</tr>
-</table>
+<div align="center">
+
+<img src="assets/icons/coins/IconBtcBitcoin.png" style="width: 24px; vertical-align: middle;"> **Bitcoin** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconTrxTron.png" style="width: 24px; vertical-align: middle;"> **TRON** &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="assets/icons/coins/IconEthEthereum.png" style="width: 24px; vertical-align: middle;"> **Ethereum** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconBsc.png" style="width: 24px; vertical-align: middle;"> **BNB Chain** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconLtcLitecoin.png" style="width: 24px; vertical-align: middle;"> **Litecoin** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconBchBitcoinCash.png" style="width: 24px; vertical-align: middle;"> **BitcoinCash** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconDogeDogecoin.png" style="width: 24px; vertical-align: middle;"> **Dogecoin** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconArbArbitrum.png" style="width: 24px; vertical-align: middle;"> **Arbitrum** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconPolPolygon.png" style="width: 24px; vertical-align: middle;"> **Polygon** &nbsp;&nbsp;&nbsp;&nbsp;
+
+**And other popular cryptocurrencies...**
+
+</div>
 
 <br>
 
@@ -146,10 +122,6 @@ Try the product with real transactions:
 
 ## 🚀 Installation options
 
-<table>
-<tr>
-<td width="100%" colspan="2">
-
 ### 🖥️ Self‑Hosted
 **Full control over your data**
 
@@ -166,13 +138,10 @@ sudo bash -c "$(curl -fsSL https://dv.net/install.sh)"
 
 [📖 Learn more](https://docs.dv.net) • [⚙️ Setup](https://docs.dv.net/en/installation/installation.html)
 
-<br>
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
-### ☁️ Cloud
+### 🖥️ Cloud
+
 **Fastest way to start**
 
 **Time to go live:** 5 minutes  
@@ -186,11 +155,10 @@ sudo bash -c "$(curl -fsSL https://dv.net/install.sh)"
 
 [📖 Documentation](https://docs.dv.net)
 
-<br>
-</td>
-<td width="50%">
+---
 
 ### 🐳 Docker
+
 **For developers**
 
 **Time to run:** 2 minutes  
@@ -208,12 +176,8 @@ docker compose up -d
 
 [💻 GitHub](https://github.com/dv-net/dv-bundle)
 
-<br>
-</td>
-</tr>
-</table>
 
-<br>
+---
 
 ### 🖥️ Self‑Hosted installation
 
@@ -280,31 +244,18 @@ Full installation docs: [docs.dv.net](https://docs.dv.net)
 
 ## 📚 Documentation
 
-<table>
-<tr>
-<td width="33%" align="center">
+<div align="center">
 
 ### 📖 [Full documentation](https://docs.dv.net)
 Guides for installation, configuration and usage
 
-<br>
-</td>
-<td width="33%" align="center">
-
 ### 🔌 [API Reference](https://docs.dv.net/en/operations/post-v1-external-wallet.html)
 Integration and API usage docs
 
-<br>
-</td>
-<td width="33%" align="center">
-
 ### 💬 [Support 24/7](https://dv.net/#support)
-Telegram, WhatsApp, WeChat, Email — we’re always online
+Telegram, WhatsApp, WeChat, Email — we're always online
 
-<br>
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
@@ -347,34 +298,21 @@ See more in [dv-merchant](https://github.com/dv-net/dv-merchant) for developers.
 
 ## 🤝 Support the project
 
-<table>
-<tr>
-<td width="25%" align="center">
+<div align="center">
 
-### ⭐ Star on GitHub
-Give us a star if this project helps you
+> ### ⭐ Star on GitHub
+> Give us a star if this project helps you
 
-</td>
-<td width="25%" align="center">
+> ### 🐛 Report a bug
+> Help us get better
 
-### 🐛 Report a bug
-Help us get better
+> ### 💡 Suggest an idea
+> Your ideas matter
 
-</td>
-<td width="25%" align="center">
+> ### 🔧 Contribute
+> Pull requests are welcome
 
-### 💡 Suggest an idea
-Your ideas matter
-
-</td>
-<td width="25%" align="center">
-
-### 🔧 Contribute
-Pull requests are welcome
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
