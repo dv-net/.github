@@ -312,6 +312,8 @@ See more in [dv-merchant](https://github.com/dv-net/dv-merchant) for developers.
 
 This project is released under the [MIT](LICENSE) license.
 
+<br>
+
 <div align="center">
 
 **© 2025 DV.net** • [DV Technologies Ltd.](https://dv.net)
