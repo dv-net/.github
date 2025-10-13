@@ -32,8 +32,6 @@
 |:---:|:---:|:---:|:---:|
 | Auditable security by anyone | Only the network fee | You keep full control of keys | Or use the managed cloud |
 
-<br>
-
 ## ✨ Features
 
 <table>
