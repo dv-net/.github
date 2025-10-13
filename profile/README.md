@@ -82,8 +82,8 @@
 <b>Ethereum</b><br>ETH, USDT, USDC, DAI
 </td>
 <td align="center" width="14%">
-<img src="assets/icons/coins/IconTrxTron.png" style="width: 24px"><br>
-<b>TRON</b><br>TRX, USDT
+<img src="assets/icons/coins/IconBchBitcoinCash.png" style="width: 24px"><br>
+<b>Bitcoin Cash</b><br>BCH
 </td>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconDogeDogecoin.png" style="width: 24px"><br>
@@ -104,8 +104,8 @@
 </tr>
 <tr>
 <td align="center" width="14%">
-<img src="assets/icons/coins/IconBchBitcoinCash.png" style="width: 24px"><br>
-<b>Bitcoin Cash</b><br>BCH
+<img src="assets/icons/coins/IconTrxTron.png" style="width: 24px"><br>
+<b>TRON</b><br>TRX, USDT
 </td>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconBsc.png" style="width: 24px"><br>
