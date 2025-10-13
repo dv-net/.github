@@ -308,7 +308,9 @@ See more in [dv-merchant](https://github.com/dv-net/dv-merchant) for developers.
 
 <br>
 
----
+## 📄 License
+
+This project is released under the [MIT](LICENSE) license.
 
 <br>
 
