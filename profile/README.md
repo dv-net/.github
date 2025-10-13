@@ -73,14 +73,14 @@ You pay **network fees only** — no middlemen and no hidden charges.
 
 <div align="center">
 
-<img src="assets/icons/coins/IconBtcBitcoin.png" style="width: 24px; vertical-align: middle;"> **Bitcoin** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconTrxTron.png" style="width: 24px; vertical-align: middle;"> **TRON** &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="assets/icons/coins/IconEthEthereum.png" style="width: 24px; vertical-align: middle;"> **Ethereum** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconBsc.png" style="width: 24px; vertical-align: middle;"> **BNB Chain** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconLtcLitecoin.png" style="width: 24px; vertical-align: middle;"> **Litecoin** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconDogeDogecoin.png" style="width: 24px; vertical-align: middle;"> **Dogecoin** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconArbArbitrum.png" style="width: 24px; vertical-align: middle;"> **Arbitrum** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconPolPolygon.png" style="width: 24px; vertical-align: middle;"> **Polygon** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconBtcBitcoin.png" style="width: 24px; vertical-align: text-bottom;"> **Bitcoin** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconTrxTron.png" style="width: 24px; vertical-align: text-bottom;"> **TRON** &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="assets/icons/coins/IconEthEthereum.png" style="width: 24px; vertical-align: text-bottom;"> **Ethereum** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconBsc.png" style="width: 24px; vertical-align: text-bottom;"> **BNB Chain** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconLtcLitecoin.png" style="width: 24px; vertical-align: text-bottom;"> **Litecoin** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconDogeDogecoin.png" style="width: 24px; vertical-align: text-bottom;"> **Dogecoin** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconArbArbitrum.png" style="width: 24px; vertical-align: text-bottom;"> **Arbitrum** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconPolPolygon.png" style="width: 24px; vertical-align: text-bottom;"> **Polygon** &nbsp;&nbsp;&nbsp;&nbsp;
 
 **And other popular cryptocurrencies...**
 
