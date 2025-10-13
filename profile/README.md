@@ -75,29 +75,29 @@
 </td>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconPolPolygon.png" style="width: 24px"><br>
-<b>Polygon</b><br>POL, USDT, USDC, DAI
+<b>Polygon</b>
 </td>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconArbArbitrum.png" style="width: 24px"><br>
-<b>Arbitrum</b><br>ETH, USDT, USDC, DAI
+<b>Arbitrum</b>
 </td>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconDogeDogecoin.png" style="width: 24px"><br>
-<b>Dogecoin</b><br>DOGE
+<b>Dogecoin</b>
 </td>
 </tr>
 <tr>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconBtcBitcoin.png" style="width: 24px"><br>
-<b>Bitcoin</b><br>BTC
+<b>Bitcoin</b>
 </td>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconBsc.png" style="width: 24px"><br>
-<b>BNB Chain</b><br>BNB, USDT, USDC, DAI
+<b>BNB Chain</b>
 </td>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconBchBitcoinCash.png" style="width: 24px"><br>
-<b>Bitcoin Cash</b><br>BCH
+<b>Bitcoin Cash</b>
 </td>
 <td align="center" colspan="5">
 <b>And other popular cryptocurrencies…</b>
@@ -116,8 +116,6 @@
 <img src="assets/icons/exchanges/gate.png" style="width:24px; vertical-align:middle;" alt="Gate"> <strong>Gate</strong> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
----
-
 ## 🎬 Live demo
 
 Try the product with real transactions:
@@ -127,8 +125,6 @@ Try the product with real transactions:
 ### [🎮 Demo Admin](https://demo.dv.net/dv-admin/dashboard) • [💳 Demo Checkout](https://demo.dv.net/pay/wallet/7d029e2e-840b-46f8-b898-2694306d119d?amount=15)
 
 </div>
-
----
 
 ## 🚀 Installation options
 
