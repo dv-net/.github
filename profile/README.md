@@ -49,7 +49,7 @@
 
 ### 🔧 Technical
 - ✅ **Payout API** to send crypto
-- ✅ **CEX support** (Binance, HTX, OKX, etc.)
+- ✅ **CEX support** (Binance, HTX, OKX)
 - ✅ **Self‑hosted** or Cloud
 - ✅ **TRON delegation**
 
