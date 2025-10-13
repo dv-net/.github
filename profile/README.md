@@ -36,7 +36,7 @@
 
 <table width="100%" style="width: 100%">
 <tr>
-<td width="50%">
+<td width="50%" style="padding: 30px 0">
 
 ### 🎯 Core
 - ✅ **Zero platform fees** — you pay the network only
