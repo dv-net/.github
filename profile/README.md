@@ -213,6 +213,8 @@ docker compose up -d
 </tr>
 </table>
 
+<br>
+
 ### 🖥️ Self‑Hosted installation
 
 Full control over data and infrastructure. Recommended for production.
@@ -274,7 +276,7 @@ The installer will:
 
 Full installation docs: [docs.dv.net](https://docs.dv.net)
 
----
+<br>
 
 ## 📚 Documentation
 
@@ -301,7 +303,7 @@ Telegram, WhatsApp, WeChat, Email — we’re always online
 </tr>
 </table>
 
----
+<br>
 
 ## 🔐 Security
 
@@ -312,7 +314,7 @@ Telegram, WhatsApp, WeChat, Email — we’re always online
 3. **🏠 Self‑hosted** — full control on your own server
 4. **🔍 Open Source** — anyone can audit the code
 
----
+<br>
 
 ## 🛠 Development
 
@@ -338,7 +340,7 @@ make build
 
 See more in [dv-merchant](https://github.com/dv-net/dv-merchant) for developers.
 
----
+<br>
 
 ## 🤝 Support the project
 
@@ -371,7 +373,7 @@ Pull requests are welcome
 </tr>
 </table>
 
----
+<br>
 
 ## 📞 Contacts
 
@@ -383,7 +385,7 @@ Pull requests are welcome
 
 </div>
 
----
+<br>
 
 ## 📄 License
 
