@@ -53,7 +53,7 @@
 - ✅ **Open Source** — verifiable codebase
 - ✅ **Non‑custodial** — your keys, your coins
 - ✅ **No KYC/KYB** — skip bureaucracy
-
+<br>
 </td>
 <td width="50%">
 
@@ -141,6 +141,8 @@ Try the product with real transactions:
 ### [🎮 Demo Admin](https://demo.dv.net/dv-admin/dashboard) • [💳 Demo Checkout](https://demo.dv.net/pay/wallet/7d029e2e-840b-46f8-b898-2694306d119d?amount=15)
 
 </div>
+
+<br>
 
 ## 🚀 Installation options
 
