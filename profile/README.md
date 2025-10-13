@@ -166,6 +166,7 @@ sudo bash -c "$(curl -fsSL https://dv.net/install.sh)"
 
 [📖 Learn more](https://docs.dv.net) • [⚙️ Setup](https://docs.dv.net/en/installation/installation.html)
 
+<br>
 </td>
 </tr>
 <tr>
@@ -185,6 +186,7 @@ sudo bash -c "$(curl -fsSL https://dv.net/install.sh)"
 
 [📖 Documentation](https://docs.dv.net)
 
+<br>
 </td>
 <td width="50%" style="vertical-align: top">
 
@@ -206,6 +208,7 @@ docker compose up -d
 
 [💻 GitHub](https://github.com/dv-net/dv-bundle)
 
+<br>
 </td>
 </tr>
 </table>
