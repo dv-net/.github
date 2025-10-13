@@ -82,8 +82,8 @@
 <b>Ethereum</b><br>ETH, USDT, USDC, DAI
 </td>
 <td align="center" width="14%">
-<img src="assets/icons/coins/IconBchBitcoinCash.png" style="width: 24px"><br>
-<b>Bitcoin Cash</b><br>BCH
+<img src="assets/icons/coins/IconArbArbitrum.png" style="width: 24px"><br>
+<b>Arbitrum</b><br>ETH, USDT, USDC, DAI
 </td>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconDogeDogecoin.png" style="width: 24px"><br>
@@ -94,8 +94,8 @@
 <b>Polygon</b><br>POL, USDT, USDC, DAI
 </td>
 <td align="center" width="14%">
-<img src="assets/icons/coins/IconArbArbitrum.png" style="width: 24px"><br>
-<b>Arbitrum</b><br>ETH, USDT, USDC, DAI
+<img src="assets/icons/coins/IconBchBitcoinCash.png" style="width: 24px"><br>
+<b>Bitcoin Cash</b><br>BCH
 </td>
 </tr>
 <tr>
