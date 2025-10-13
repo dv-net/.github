@@ -37,10 +37,7 @@ You pay **network fees only** — no middlemen and no hidden charges.
 
 <div>
 
-> ### 🔓 **Open Source**  # Auditable security by anyone
-
-><span style="font-size:20px;">🔓 <b>Open Source</b></span> 
-<span style="font-size:16px;">[ Auditable security by anyone ]</span>
+> #### 🔓 **Open Source**  [ Auditable security by anyone ]
 
 
 > ### 💰 **Zero Fees**
