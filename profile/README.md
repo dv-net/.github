@@ -77,11 +77,11 @@
 <img src="assets/icons/coins/IconBtcBitcoin.png" style="width: 24px"><br>
 <b>Bitcoin</b><br>BTC
 </td>
-<td align="center" width="20%">
+<td align="center" width="22%">
 <img src="assets/icons/coins/IconEthEthereum.png" style="width: 24px"><br>
 <b>Ethereum</b><br>ETH, USDT, USDC, DAI
 </td>
-<td align="center" width="20%">
+<td align="center" width="22%">
 <img src="assets/icons/coins/IconArbArbitrum.png" style="width: 24px"><br>
 <b>Arbitrum</b><br>ETH, USDT, USDC, DAI
 </td>
@@ -99,11 +99,11 @@
 <img src="assets/icons/coins/IconTrxTron.png" style="width: 24px"><br>
 <b>TRON</b><br>TRX, USDT
 </td>
-<td align="center" width="14%">
+<td align="center" width="22%">
 <img src="assets/icons/coins/IconBsc.png" style="width: 24px"><br>
 <b>BNB Chain</b><br>BNB, USDT, USDC, DAI
 </td>
-<td align="center" width="20%">
+<td align="center" width="22%">
 <img src="assets/icons/coins/IconPolPolygon.png" style="width: 24px"><br>
 <b>Polygon</b><br>POL, USDT, USDC, DAI
 </td>
