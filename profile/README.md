@@ -34,7 +34,7 @@
 
 ## ✨ Features
 
-<table width="100%">
+<table width="100%" style="width: 100%">
 <tr>
 <td width="50%">
 
