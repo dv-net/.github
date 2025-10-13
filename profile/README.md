@@ -148,7 +148,7 @@ Try the product with real transactions:
 
 <table>
 <tr>
-<td width="33%" align="center" style="vertical-align: top">
+<td width="100%" align="center" style="vertical-align: top" colspan="2">
 
 ### 🖥️ Self‑Hosted
 **Full control over your data**
@@ -167,7 +167,9 @@ sudo bash -c "$(curl -fsSL https://dv.net/install.sh)"
 [📖 Learn more](https://docs.dv.net) • [⚙️ Setup](https://docs.dv.net/en/installation/installation.html)
 
 </td>
-<td width="33%" align="center" style="vertical-align: top">
+</tr>
+<tr>
+<td width="50%" align="center" style="vertical-align: top">
 
 ### ☁️ Cloud
 **Fastest way to start**
@@ -184,7 +186,7 @@ sudo bash -c "$(curl -fsSL https://dv.net/install.sh)"
 [📖 Documentation](https://docs.dv.net)
 
 </td>
-<td width="33%" align="center" style="vertical-align: top">
+<td width="50%" align="center" style="vertical-align: top">
 
 ### 🐳 Docker
 **For developers**
