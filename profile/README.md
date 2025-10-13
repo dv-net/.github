@@ -97,10 +97,6 @@
 <img src="assets/icons/coins/IconArbArbitrum.png" style="width: 24px"><br>
 <b>Arbitrum</b><br>ETH, USDT, USDC, DAI
 </td>
-<td align="center" width="14%">
-<img src="assets/icons/coins/IconLtcLitecoin.png" style="width: 24px"><br>
-<b>Litecoin</b><br>LTC
-</td>
 </tr>
 <tr>
 <td align="center" width="14%">
@@ -111,7 +107,11 @@
 <img src="assets/icons/coins/IconBsc.png" style="width: 24px"><br>
 <b>BNB Chain</b><br>BNB, USDT, USDC, DAI
 </td>
-<td align="center" colspan="5">
+<td align="center" width="14%">
+<img src="assets/icons/coins/IconLtcLitecoin.png" style="width: 24px"><br>
+<b>Litecoin</b><br>LTC
+</td>
+<td align="center" colspan="4">
 <b>И другие популярные криптовалюты...</b>
 </td>
 </tr>
