@@ -82,6 +82,8 @@ You pay **network fees only** — no middlemen and no hidden charges.
 <img src="assets/icons/coins/IconArbArbitrum.png" width="18"> **Arbitrum** &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/icons/coins/IconPolPolygon.png" width="18"> **Polygon** &nbsp;&nbsp;&nbsp;&nbsp;
 
+**And other popular cryptocurrencies...**
+
 </div>
 
 <br>
