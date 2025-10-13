@@ -37,14 +37,13 @@ You pay **network fees only** — no middlemen and no hidden charges.
 
 <div>
 
-> #### 🔓 **Open Source**  [ Auditable security by anyone ]
-
+> #### 🔓 **Open Source**  ( Auditable security by anyone )
 
 > #### 💰 **Zero Fees** ( Only the network fee )
 
-> #### 🔐 **Non‑custodial** [ You keep full control of keys ]
+> #### 🔐 **Non‑custodial** ( You keep full control of keys )
 
-> #### ⚙️ **Self‑hosted** [ Or use the managed cloud ]
+> #### ⚙️ **Self‑hosted** ( Or use the managed cloud )
 
 </div>
 
