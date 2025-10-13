@@ -32,7 +32,7 @@
 |:---:|:---:|:---:|:---:|
 | Auditable security by anyone | Only the network fee | You keep full control of keys | Or use the managed cloud |
 
----
+<br>
 
 ## ✨ Features
 
@@ -67,12 +67,14 @@
 <tr>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconTrxTron.png" style="width: 24px"><br>
-<b>TRON</b><br>TRX, USDT
+<b>TRON</b><br>
+<span style="font-size:10px;">TRX, USDT</span>
 </td>
 
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconEthEthereum.png" style="width: 24px"><br>
-<b>Ethereum</b><br>ETH, USDT, USDC, DAI
+<b>Ethereum</b><br>
+<span style="font-size:10px;">ETH, USDT, USDC, DAI</span>
 </td>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconLtcLitecoin.png" style="width: 24px"><br>
