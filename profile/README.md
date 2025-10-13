@@ -86,8 +86,8 @@
 <b>TRON</b><br>TRX, USDT
 </td>
 <td align="center" width="14%">
-<img src="assets/icons/coins/IconBsc.png" style="width: 24px"><br>
-<b>BNB Chain</b><br>BNB, USDT, USDC, DAI
+<img src="assets/icons/coins/IconDogeDogecoin.png" style="width: 24px"><br>
+<b>Dogecoin</b><br>DOGE
 </td>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconPolPolygon.png" style="width: 24px"><br>
@@ -108,8 +108,8 @@
 <b>Bitcoin Cash</b><br>BCH
 </td>
 <td align="center" width="14%">
-<img src="assets/icons/coins/IconDogeDogecoin.png" style="width: 24px"><br>
-<b>Dogecoin</b><br>DOGE
+<img src="assets/icons/coins/IconBsc.png" style="width: 24px"><br>
+<b>BNB Chain</b><br>BNB, USDT, USDC, DAI
 </td>
 <td align="center" colspan="5">
 <b>И другие популярные криптовалюты...</b>
