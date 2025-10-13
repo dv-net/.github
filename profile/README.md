@@ -123,9 +123,7 @@ Try the product with real transactions:
 sudo bash -c "$(curl -fsSL https://dv.net/install.sh)"
 ```
 
-**✅ Production‑ready**  
-**✅ Maximum security**  
-**✅ No monthly fees**
+**✅ Production‑ready** &nbsp; **✅ Maximum security** &nbsp; **✅ No monthly fees**
 
 [📖 Learn more](https://docs.dv.net) • [⚙️ Setup](https://docs.dv.net/en/installation/installation.html)
 
@@ -135,14 +133,11 @@ sudo bash -c "$(curl -fsSL https://dv.net/install.sh)"
 
 **Fastest way to start**
 
-**Time to go live:** 5 minutes  
-**Support:** 24/7
+**Time to go live:** 5 minutes &nbsp; | &nbsp; **Support:** 24/7
 
 [🚀 **Start now**](https://cloud.dv.net/dv-admin/auth/sign-up)
 
-**✅ No installation**  
-**✅ Managed solution**  
-**✅ Support included**
+**✅ No installation** &nbsp; **✅ Managed solution** &nbsp; **✅ Support included**
 
 [📖 Documentation](https://docs.dv.net)
 
@@ -161,9 +156,7 @@ cd dv-bundle && cp .env.example .env
 docker compose up -d
 ```
 
-**✅ Local development**  
-**✅ Local testing**  
-**✅ Demos**
+**✅ Local development** &nbsp; **✅ Local testing** &nbsp; **✅ Demos**
 
 [💻 GitHub](https://github.com/dv-net/dv-bundle)
 
