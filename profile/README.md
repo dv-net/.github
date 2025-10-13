@@ -306,7 +306,11 @@ See more in [dv-merchant](https://github.com/dv-net/dv-merchant) for developers.
 
 </div>
 
-<br><br>
+<br>
+
+---
+
+<br>
 
 <div align="center">
 
