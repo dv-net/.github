@@ -34,7 +34,7 @@
 
 ## ✨ Features
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%">
 
@@ -56,8 +56,6 @@
 </td>
 </tr>
 </table>
-
----
 
 ## 💎 Supported cryptocurrencies
 
