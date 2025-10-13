@@ -88,13 +88,13 @@ You pay **network fees only** — no middlemen and no hidden charges.
 
 ### 🏦 Supported exchanges (CEX)
 <div align="center">
-<img src="assets/icons/exchanges/binance.png" width="20" alt="Binance"> <strong>Binance</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/exchanges/htx.png" width="20" alt="HTX"> <strong>HTX</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/exchanges/okx.png" width="20" alt="OKX"> <strong>OKX</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/exchanges/kukoin.png" width="20" alt="KuCoin"> <strong>KuCoin</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/exchanges/bybit.png" width="20" alt="Bybit"> <strong>Bybit</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/exchanges/bitget.png" width="20" alt="Bitget"> <strong>Bitget</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/exchanges/gate.png" width="20" alt="Gate"> <strong>Gate</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/exchanges/binance.png" width="17" alt="Binance"> <strong>Binance</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/exchanges/htx.png" width="17" alt="HTX"> <strong>HTX</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/exchanges/okx.png" width="17" alt="OKX"> <strong>OKX</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/exchanges/kukoin.png" width="17" alt="KuCoin"> <strong>KuCoin</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/exchanges/bybit.png" width="17" alt="Bybit"> <strong>Bybit</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/exchanges/bitget.png" width="17" alt="Bitget"> <strong>Bitget</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/exchanges/gate.png" width="17" alt="Gate"> <strong>Gate</strong> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br>
