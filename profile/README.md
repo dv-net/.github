@@ -39,7 +39,7 @@
 <td width="50%">
 
 ### 🎯 Core
-- ✅ **Zero fees** — you pay the network only
+- ✅ **Zero platform fees** — you pay the network only
 - ✅ **Open Source** — verifiable codebase
 - ✅ **Non‑custodial** — your keys, your coins
 - ✅ **No KYC/KYB** — skip bureaucracy
@@ -49,7 +49,7 @@
 
 ### 🔧 Technical
 - ✅ **Payout API** to send crypto
-- ✅ **CEX support** (Binance, HTX, OKX)
+- ✅ **CEX support** (Binance, HTX, OKX, etc.)
 - ✅ **Self‑hosted** or Cloud
 - ✅ **TRON delegation**
 
