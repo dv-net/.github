@@ -34,9 +34,9 @@
 
 ## ✨ Features
 
-<table width="100%" style="width: 100%">
+<table>
 <tr>
-<td width="50%" style="padding: 30px 0">
+<td width="50%">
 
 ### 🎯 Core
 - ✅ **Zero platform fees** — you pay the network only
@@ -63,18 +63,15 @@
 <tr>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconTrxTron.png" style="width: 24px"><br>
-<b>TRON</b><br>
-<span style="font-size:10px;">TRX, USDT</span>
+<b>TRON</b>
 </td>
-
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconEthEthereum.png" style="width: 24px"><br>
-<b>Ethereum</b><br>
-<span style="font-size:10px;">ETH, USDT, USDC, DAI</span>
+<b>Ethereum</b>
 </td>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconLtcLitecoin.png" style="width: 24px"><br>
-<b>Litecoin</b><br>LTC
+<b>Litecoin</b>
 </td>
 <td align="center" width="14%">
 <img src="assets/icons/coins/IconPolPolygon.png" style="width: 24px"><br>
