@@ -73,16 +73,14 @@ You pay **network fees only** — no middlemen and no hidden charges.
 
 <div align="center">
 
-<img src="assets/icons/coins/IconBtcBitcoin.png" width="18"> **Bitcoin** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconTrxTron.png" width="18"> **TRON** &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="assets/icons/coins/IconEthEthereum.png" width="18"> **Ethereum** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconBsc.png" width="18"> **BNB Chain** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconLtcLitecoin.png" width="18"> **Litecoin** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconDogeDogecoin.png" width="18"> **Dogecoin** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconArbArbitrum.png" width="18"> **Arbitrum** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconPolPolygon.png" width="18"> **Polygon** &nbsp;&nbsp;&nbsp;&nbsp;
-
-**And other popular cryptocurrencies...**
+<img src="assets/icons/coins/IconBtcBitcoin.png" width="17"> **Bitcoin** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconTrxTron.png" width="17"> **TRON** &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="assets/icons/coins/IconEthEthereum.png" width="17"> **Ethereum** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconBsc.png" width="17"> **BNB Chain** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconLtcLitecoin.png" width="17"> **Litecoin** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconDogeDogecoin.png" width="17"> **Dogecoin** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconArbArbitrum.png" width="17"> **Arbitrum** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconPolPolygon.png" width="17"> **Polygon** &nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
