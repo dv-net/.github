@@ -161,9 +161,9 @@ docker compose up -d
 [💻 GitHub](https://github.com/dv-net/dv-bundle)
 
 
----
+<br>
 
-### 🖥️ Self‑Hosted installation
+## 🖥️ Self‑Hosted installation (detailed description)
 
 Full control over data and infrastructure. Recommended for production.
 
