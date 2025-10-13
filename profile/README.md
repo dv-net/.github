@@ -35,7 +35,7 @@ You pay **network fees only** — no middlemen and no hidden charges.
 
 ### ⚡ Why DV.net?
 
-<div align="center">
+<div>
 
 > ### 🔓 **Open Source**
 > Auditable security by anyone
@@ -82,7 +82,6 @@ You pay **network fees only** — no middlemen and no hidden charges.
 <img src="assets/icons/coins/IconEthEthereum.png" style="width: 24px; vertical-align: middle;"> **Ethereum** &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/icons/coins/IconBsc.png" style="width: 24px; vertical-align: middle;"> **BNB Chain** &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/icons/coins/IconLtcLitecoin.png" style="width: 24px; vertical-align: middle;"> **Litecoin** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconBchBitcoinCash.png" style="width: 24px; vertical-align: middle;"> **BitcoinCash** &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/icons/coins/IconDogeDogecoin.png" style="width: 24px; vertical-align: middle;"> **Dogecoin** &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/icons/coins/IconArbArbitrum.png" style="width: 24px; vertical-align: middle;"> **Arbitrum** &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/icons/coins/IconPolPolygon.png" style="width: 24px; vertical-align: middle;"> **Polygon** &nbsp;&nbsp;&nbsp;&nbsp;
