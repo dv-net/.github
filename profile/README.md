@@ -282,19 +282,15 @@ See more in [dv-merchant](https://github.com/dv-net/dv-merchant) for developers.
 
 ## 🤝 Support the project
 
-<div align="center">
+<div>
 
-> ### ⭐ Star on GitHub
-> Give us a star if this project helps you
+> #### ⭐ **Star on GitHub**  — Give us a star if this project helps you
 
-> ### 🐛 Report a bug
-> Help us get better
+> #### 🐛 **Report a bug** — Help us get better
 
-> ### 💡 Suggest an idea
-> Your ideas matter
+> #### 💡 **Suggest an idea** — Your ideas matter
 
-> ### 🔧 Contribute
-> Pull requests are welcome
+> #### 🔧 **Contribute** — Pull requests are welcome
 
 </div>
 
