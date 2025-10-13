@@ -287,6 +287,7 @@ Full installation docs: [docs.dv.net](https://docs.dv.net)
 ### 📖 [Full documentation](https://docs.dv.net)
 Guides for installation, configuration and usage
 
+<br>
 </td>
 <td width="33%" align="center">
 
