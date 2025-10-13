@@ -26,11 +26,15 @@
 
 **DV.net** is a completely free crypto payment processor to receive and send crypto on your website. You pay **network fees only** — no middlemen and no hidden charges.
 
+<br>
+
 ### ⚡ Why DV.net?
 
 | 🔓 **Open Source** | 💰 **Zero Fees** | 🔐 **Non‑custodial** | ⚙️ **Self‑hosted** |
 |:---:|:---:|:---:|:---:|
 | Auditable security by anyone | Only the network fee | You keep full control of keys | Or use the managed cloud |
+
+<br>
 
 ## ✨ Features
 
