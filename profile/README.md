@@ -170,7 +170,7 @@ sudo bash -c "$(curl -fsSL https://dv.net/install.sh)"
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" colspan="2">
 
 ### ☁️ Cloud
 **Fastest way to start**
@@ -188,8 +188,8 @@ sudo bash -c "$(curl -fsSL https://dv.net/install.sh)"
 
 <br>
 </td>
+<td></td>
 <td width="50%">
-<br>
 
 ### 🐳 Docker
 **For developers**
