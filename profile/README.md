@@ -86,7 +86,12 @@ You pay **network fees only** — no middlemen and no hidden charges.
 </div>
 
 <div align="center">
-    <span>It is possible to set up a contract reception • We’ll be adding <strong>SOL</strong> and <strong>TON</strong></span>
+    <span>
+        It is possible to set up a contract reception • We’ll be adding &nbsp;
+        <img src="assets/icons/coins/IconXmrMonero.png" width="17"> <strong>Monero</strong> &nbsp;
+        <img src="assets/icons/coins/IconSolSolana.png" width="17"> <strong>Solana</strong> &nbsp;
+        <img src="assets/icons/coins/IconTON.png" width="17"> <strong>TON</strong>
+    </span>
 </div>
 
 <br>
