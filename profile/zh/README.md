@@ -222,7 +222,7 @@ sudo bash -c "$(curl -fsSL https://dv.net/install.sh)"
 
 > #### 🔌 [API 参考](https://docs.dv.net/en/operations/post-v1-external-wallet.html) — 集成与 API 使用说明
 
-> #### 💬 [24/7 技术支持](https://dv.net/#support) — Telegram, WhatsApp, WeChat, 电子邮箱 — 我们随时在线
+> #### 💬 [24/7 技术支持](https://dv.net/#support) — Telegram、WhatsApp、WeChat、电子邮箱 — 我们随时在线
 
 </div>
 
