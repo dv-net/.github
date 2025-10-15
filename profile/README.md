@@ -82,11 +82,11 @@ You pay **network fees only** — no middlemen and no hidden charges.
 <img src="assets/icons/coins/IconBchBitcoinCash.png" width="17"> <strong>BitcoinCash</strong> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/icons/coins/IconArbArbitrum.png" width="17"> <strong>Arbitrum</strong> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/icons/coins/IconPolPolygon.png" width="17"> <strong>Polygon</strong> &nbsp;&nbsp;
-<em>...and many others</em>
+<sub>...and many others</sub>
 </div>
 
 <div align="center">
-    <sub>It is possible to set up a contract reception • We’ll be adding <strong>SOL</strong> and <strong>TON</strong></sub>
+    <span>It is possible to set up a contract reception • We’ll be adding <strong>SOL</strong> and <strong>TON</strong></span>
 </div>
 
 <br>
