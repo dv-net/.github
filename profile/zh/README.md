@@ -51,15 +51,15 @@
 
 <div align="center">
 
-<img src="../assets/icons/coins/IconBtcBitcoin.png" width="17"> <strong>Bitcoin</strong>  
-<img src="../assets/icons/coins/IconTrxTron.png" width="17"> <strong>TRON</strong>  
-<img src="../assets/icons/coins/IconEthEthereum.png" width="17"> <strong>Ethereum</strong>  
-<img src="../assets/icons/coins/IconBsc.png" width="17"> <strong>BNB Chain</strong>  
-<img src="../assets/icons/coins/IconLtcLitecoin.png" width="17"> <strong>Litecoin</strong>  
-<img src="../assets/icons/coins/IconDogeDogecoin.png" width="17"> <strong>Dogecoin</strong>  
-<img src="../assets/icons/coins/IconBchBitcoinCash.png" width="17"> <strong>BitcoinCash</strong>  
-<img src="../assets/icons/coins/IconArbArbitrum.png" width="17"> <strong>Arbitrum</strong>  
-<img src="../assets/icons/coins/IconPolPolygon.png" width="17"> <strong>Polygon</strong>  
+<img src="../assets/icons/coins/IconBtcBitcoin.png" width="17"> <strong>Bitcoin</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="../assets/icons/coins/IconTrxTron.png" width="17"> <strong>TRON</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="../assets/icons/coins/IconEthEthereum.png" width="17"> <strong>Ethereum</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="../assets/icons/coins/IconBsc.png" width="17"> <strong>BNB Chain</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="../assets/icons/coins/IconLtcLitecoin.png" width="17"> <strong>Litecoin</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="../assets/icons/coins/IconDogeDogecoin.png" width="17"> <strong>Dogecoin</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="../assets/icons/coins/IconBchBitcoinCash.png" width="17"> <strong>BitcoinCash</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="../assets/icons/coins/IconArbArbitrum.png" width="17"> <strong>Arbitrum</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="../assets/icons/coins/IconPolPolygon.png" width="17"> <strong>Polygon</strong> &nbsp;&nbsp;&nbsp;&nbsp;
 <sub>……以及更多</sub>
 </div>
 
