@@ -73,15 +73,20 @@ You pay **network fees only** — no middlemen and no hidden charges.
 
 <div align="center">
 
-<img src="assets/icons/coins/IconBtcBitcoin.png" width="17"> **Bitcoin** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconTrxTron.png" width="17"> **TRON** &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="assets/icons/coins/IconEthEthereum.png" width="17"> **Ethereum** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconBsc.png" width="17"> **BNB Chain** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconLtcLitecoin.png" width="17"> **Litecoin** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconDogeDogecoin.png" width="17"> **Dogecoin** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconArbArbitrum.png" width="17"> **Arbitrum** &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/icons/coins/IconPolPolygon.png" width="17"> **Polygon** &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconBtcBitcoin.png" width="17"> <strong>Bitcoin</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconTrxTron.png" width="17"> <strong>TRON</strong> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="assets/icons/coins/IconEthEthereum.png" width="17"> <strong>Ethereum</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconBsc.png" width="17"> <strong>BNB Chain</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconLtcLitecoin.png" width="17"> <strong>Litecoin</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconDogeDogecoin.png" width="17"> <strong>Dogecoin</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconBchBitcoinCash.png" width="17"> <strong>BitcoinCash</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconArbArbitrum.png" width="17"> <strong>Arbitrum</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/coins/IconPolPolygon.png" width="17"> <strong>Polygon</strong> &nbsp;&nbsp;
+<em>...and many others</em>
+</div>
 
+<div align="center">
+    <sub>It is possible to set up a contract reception • We’ll be adding <strong>SOL</strong> and <strong>TON</strong></sub>
 </div>
 
 <br>
@@ -228,16 +233,13 @@ Full installation docs: [docs.dv.net](https://docs.dv.net)
 
 ## 📚 Documentation
 
-<div align="center">
+<div>
 
-### 📖 [Full documentation](https://docs.dv.net)
-Guides for installation, configuration and usage
+> #### 📖 [Full documentation](https://docs.dv.net)  — Guides for installation, configuration and usage
 
-### 🔌 [API Reference](https://docs.dv.net/en/operations/post-v1-external-wallet.html)
-Integration and API usage docs
+> #### 🔌 [API Reference](https://docs.dv.net/en/operations/post-v1-external-wallet.html) — Integration and API usage docs
 
-### 💬 [Support 24/7](https://dv.net/#support)
-Telegram, WhatsApp, WeChat, Email — we're always online
+> #### 💬 [Support 24/7](https://dv.net/#support) — Telegram, WhatsApp, WeChat, Email — we're always online
 
 </div>
 
