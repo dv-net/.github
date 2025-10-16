@@ -37,13 +37,13 @@ You pay **network fees only** — no middlemen and no hidden charges.
 
 <div>
 
-> #### 🔓 **Open Source**  — Auditable security by anyone
+> #### 🔓 **Open Source** — Anyone can verify the security of the code
 
-> #### 💰 **Zero Fees** — Only the network fee
+> #### 💰 **No Fees** — Only network fee
 
-> #### 🔐 **Non‑custodial** — You keep full control of keys
+> #### 🔐 **Non-custodial** — Full control over seed phrase and private key
 
-> #### ⚙️ **Self‑hosted** — Or use the managed cloud
+> #### ⚙️ **Self-hosted** — Host it yourself or use the cloud version
 
 </div>
 
@@ -53,17 +53,17 @@ You pay **network fees only** — no middlemen and no hidden charges.
 
 <div>
 
-### 🎯 Core
-- ✅ **Zero platform fees** — you pay the network only
-- ✅ **Open Source** — verifiable codebase
-- ✅ **Non‑custodial** — your keys, your coins
-- ✅ **No KYC/KYB** — skip bureaucracy
+### 🎯 Main Features
+- ✅ **No KYC / KYB** — no intermediaries
+- ✅ **Notifications & Webhooks** — for payment statuses and incoming checks
+- ✅ **No Fees** — you pay ONLY the network fee, nothing else!
 
 ### 🔧 Technical
-- ✅ **Payout API** to send crypto
-- ✅ **CEX support** (Binance, HTX, OKX, etc.)
-- ✅ **Self‑hosted** or Cloud
-- ✅ **TRON delegation**
+- ✅ **API** — for sending cryptocurrency
+- ✅ **TRON Delegation** — supports delegation functionality
+- ✅ **Network Fee Optimization** — BTC, EVM, TRON (resources / staking)
+- ✅ **CEX Support** (Binance, HTX, OKX, etc.)
+- ✅ **Self-hosted** or cloud version
 
 </div>
 
@@ -157,7 +157,7 @@ sudo bash -c "$(curl -fsSL https://dv.net/install.sh)"
 
 **For developers**
 
-**Time to run:** 2 minutes  
+**Time to run:** 10–15 minutes  
 **Result:** `localhost:80`
 
 ```bash
