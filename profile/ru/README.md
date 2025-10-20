@@ -9,7 +9,7 @@
 <br>
 <br>
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/dv-net/.github/blob/main/profile/LICENSE)
 [![Go Version](https://img.shields.io/badge/Go-1.24.4+-00ADD8?logo=go)](https://github.com/dv-net/dv-merchant)
 [![Vue Version](https://img.shields.io/badge/Vue-3.5.15-42b883?logo=vue&logoColor=white)](https://github.com/dv-net/dv-frontend)
 [![Documentation](https://img.shields.io/badge/Docs-docs.dv.net-orange)](https://docs.dv.net)
