@@ -8,7 +8,7 @@
 <img src="../assets/01.main-banner.zh.png" alt="DV.net 横幅" width="100%">
 <br><br>
 
-[![许可证](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![许可证](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/dv-net/.github/blob/main/profile/LICENSE)
 [![Go 版本](https://img.shields.io/badge/Go-1.24.4+-00ADD8?logo=go)](https://github.com/dv-net/dv-merchant)
 [![Vue 版本](https://img.shields.io/badge/Vue-3.5.15-42b883?logo=vue&logoColor=white)](https://github.com/dv-net/dv-frontend)
 [![文档](https://img.shields.io/badge/Docs-docs.dv.net-orange)](https://docs.dv.net)
