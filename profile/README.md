@@ -10,7 +10,7 @@
 <br>
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-<img src="https://img.shields.io/badge/Go-1.24.4+-00ADD8?logo=go" alt="Go Version">
+<img src="https://img.shields.io/badge/Go-1.24.4+-00ADD8?logo=go" alt="Go Version" style="pointer-events: none;">
 [![Version](https://img.shields.io/badge/Version-0.9.7-green.svg)](CHANGELOG.md)
 [![Documentation](https://img.shields.io/badge/Docs-docs.dv.net-orange)](https://docs.dv.net)
 
