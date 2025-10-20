@@ -11,7 +11,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Go Version](https://img.shields.io/badge/Go-1.24.4+-00ADD8?logo=go)](https://github.com/dv-net/dv-merchant)
-[![Version](https://img.shields.io/badge/Version-0.9.7-green.svg)](CHANGELOG.md)
+[![Vue Version](https://img.shields.io/badge/Vue-3.5.15-42b883?logo=vue&logoColor=white)](https://github.com/dv-net/dv-frontend)
 [![Documentation](https://img.shields.io/badge/Docs-docs.dv.net-orange)](https://docs.dv.net)
 
 [🇬🇧 English](https://github.com/dv-net/.github/blob/main/profile/README.md) • [🇷🇺 Русский](https://github.com/dv-net/.github/blob/main/profile/ru/README.md) • [🇨🇳 中国人](https://github.com/dv-net/.github/blob/main/profile/zh/README.md)
