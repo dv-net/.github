@@ -9,8 +9,8 @@
 <br><br>
 
 [![许可证](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Go 版本](https://img.shields.io/badge/Go-1.24.4+-00ADD8?logo=go)](go.mod)
-[![版本](https://img.shields.io/badge/Version-0.9.7-green.svg)](CHANGELOG.md)
+[![Go 版本](https://img.shields.io/badge/Go-1.24.4+-00ADD8?logo=go)](https://github.com/dv-net/dv-merchant)
+[![Vue 版本](https://img.shields.io/badge/Vue-3.5.15-42b883?logo=vue&logoColor=white)](https://github.com/dv-net/dv-frontend)
 [![文档](https://img.shields.io/badge/Docs-docs.dv.net-orange)](https://docs.dv.net)
 
 [🇬🇧 English](https://github.com/dv-net/.github/blob/main/profile/README.md) • [🇷🇺 Русский](https://github.com/dv-net/.github/blob/main/profile/ru/README.md) • [🇨🇳 中文](https://github.com/dv-net/.github/blob/main/profile/zh/README.md)
