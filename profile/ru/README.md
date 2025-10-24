@@ -5,7 +5,7 @@
 ### Бесплатный криптопроцессинг с открытым исходным кодом
 
 <br>
-<img src="../assets/01.main-banner.ru.png" alt="DV.net Banner" width="100%">
+<img src="../assets/main-banner-ru.png" alt="DV.net Banner" width="100%">
 <br>
 <br>
 
@@ -118,7 +118,7 @@
 ### [🎮 Демо Панель](https://demo.dv.net/dv-admin/dashboard) • [💳 Демо Оплата](https://demo.dv.net/pay/wallet/7d029e2e-840b-46f8-b898-2694306d119d?amount=15)
 
 <br>
-<img src="../assets/02.demo-banner.png" alt="DV.net Banner" width="100%">
+<img src="../assets/demo-banner.png" alt="DV.net Banner" width="100%">
 </div>
 
 <br>
