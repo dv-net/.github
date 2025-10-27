@@ -117,9 +117,6 @@ Try the product with real transactions:
 
 ### [🎮 Demo Admin](https://demo.dv.net/dv-admin/dashboard) • [💳 Demo Checkout](https://demo.dv.net/pay/wallet/7d029e2e-840b-46f8-b898-2694306d119d?amount=15)
 
-<br>
-<img src="assets/demo-banner.png" alt="DV.net Banner" width="100%">
-
 </div>
 
 <br>
