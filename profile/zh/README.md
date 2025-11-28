@@ -307,7 +307,7 @@ make build
 
 ## 📄 许可证
 
-本项目在 [MIT](LICENSE) 许可下发布。
+本项目在 [MIT](https://github.com/dv-net/.github/blob/main/profile/LICENSE) 许可下发布。
 
 <br>
 
