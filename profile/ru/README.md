@@ -307,9 +307,9 @@ make build
 
 <div align="center">
 
-**Telegram:** [@dv_net_support_bot](https://t.me/dv_net_support_bot) • **Чат в Telegram:** [@dv_net_support_chat](https://t.me/dv_net_support_chat) • **Discord:** [discord.gg/Szy2XGsr](https://discord.gg/Szy2XGsr) • **Email:** [support@dv.net](https://dv.net/#support)
+**Telegram:** [@dv_net_support_bot](https://t.me/dv_net_support_bot) • **Чат в Telegram:** [@dv_net_support_chat](https://t.me/dv_net_support_chat) • **Discord:** [discord.gg/Szy2XGsr](https://discord.gg/Szy2XGsr)
 
-**Сайт:** [dv.net](https://dv.net) • **Документация:** [docs.dv.net](https://docs.dv.net)
+**Email:** [support@dv.net](https://dv.net/#support) • **Сайт:** [dv.net](https://dv.net) • **Документация:** [docs.dv.net](https://docs.dv.net)
 
 </div>
 
