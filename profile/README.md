@@ -307,14 +307,15 @@ See more in [dv-merchant](https://github.com/dv-net/dv-merchant) for developers.
 
 Support the development of the project with crypto:
 
-| Currency | Address |
-|----------|---------|
-| <img src="assets/icons/coins/IconBtcBitcoin.png" width="17"> **Bitcoin** | `bc1qemvhkgzr4r7ksgxl8lv0lw7mnnthfc6990v3c2` |
-| <img src="assets/icons/coins/IconTrxTron.png" width="17"> **TRON (TRX)** | `TCB4bYYN5x1z9Z4bBZ7p3XxcMwdtCfmNdN` |
-| <img src="assets/icons/coins/IconEthEthereum.png" width="17"> **Ethereum** | `0xf1e4c7b968a20aae891cc18b1d5836b806691d47` |
-| 💵 **USDT (Tron)** | `TCB4bYYN5x1z9Z4bBZ7p3XxcMwdtCfmNdN` |
+> 💵 **USDT (Tron)** — `TCB4bYYN5x1z9Z4bBZ7p3XxcMwdtCfmNdN`
 
-> Other networks and tokens (BNB Chain, Arbitrum, Polygon, Litecoin, Dogecoin, Bitcoin Cash, etc.) are available at **[dv.net/donate](https://dv.net/ru/donate)**
+> <img src="assets/icons/coins/IconBtcBitcoin.png" width="17"> **Bitcoin** — `bc1qemvhkgzr4r7ksgxl8lv0lw7mnnthfc6990v3c2`
+
+> <img src="assets/icons/coins/IconTrxTron.png" width="17"> **TRON (TRX)** — `TCB4bYYN5x1z9Z4bBZ7p3XxcMwdtCfmNdN`
+
+> <img src="assets/icons/coins/IconEthEthereum.png" width="17"> **Ethereum** — `0xf1e4c7b968a20aae891cc18b1d5836b806691d47`
+
+🔗 Other networks and tokens (BNB Chain, Arbitrum, Polygon, Litecoin, Dogecoin, Bitcoin Cash, etc.) are available at **[dv.net/donate](https://dv.net/ru/donate)**
 
 <br>
 
