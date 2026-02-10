@@ -307,7 +307,7 @@ make build
 
 Поддержите развитие проекта криптовалютой:
 
-> 💵 **USDT (Tron)** — `TCB4bYYN5x1z9Z4bBZ7p3XxcMwdtCfmNdN`
+> <img src="../assets/icons/coins/IconUsdt.png" width="17"> **USDT (Tron)** — `TCB4bYYN5x1z9Z4bBZ7p3XxcMwdtCfmNdN`
 
 > <img src="../assets/icons/coins/IconBtcBitcoin.png" width="17"> **Bitcoin** — `bc1qemvhkgzr4r7ksgxl8lv0lw7mnnthfc6990v3c2`
 
@@ -315,7 +315,7 @@ make build
 
 > <img src="../assets/icons/coins/IconEthEthereum.png" width="17"> **Ethereum** — `0xf1e4c7b968a20aae891cc18b1d5836b806691d47`
 
-🔗 Другие сети и токены (BNB Chain, Arbitrum, Polygon, Litecoin, Dogecoin, Bitcoin Cash и др.) доступны на странице **[dv.net/donate](https://dv.net/ru/donate)**
+🔗 Другие сети и токены (BNB Chain, Arbitrum, Polygon, Litecoin, Dogecoin, Bitcoin Cash и др.) доступны на странице **[платёжная форма](https://cloud.dv.net/pay/store/208ec77f-d516-46b9-b280-3c12e1a75071/donate)**
 
 <br>
 
