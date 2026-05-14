@@ -323,7 +323,7 @@ Support the development of the project with crypto:
 
 <div align="center">
 
-**Telegram:** [@dv_net_support_bot](https://t.me/dv_net_support_bot) • **Telegram Chat:** [@dv_net_support_chat](https://t.me/dv_net_support_chat) • **Discord:** [discord.gg/fh7D2B4Jx6](https://discord.gg/fh7D2B4Jx6)
+**Telegram:** [@dv_net_support_bot](https://t.me/dv_net_support_bot) • **Telegram Chat:** [@dv_net_support_chat](https://t.me/dv_net_support_chat) • **Discord:** [discord.gg/QUXNWZdy](https://discord.gg/QUXNWZdy)
 
 **Email:** [support@dv.net](https://dv.net/#support) • **Website:** [dv.net](https://dv.net) • **Documentation:** [docs.dv.net](https://docs.dv.net)
 

@@ -323,7 +323,7 @@ make build
 
 <div align="center">
 
-**Telegram:** [@dv_net_support_bot](https://t.me/dv_net_support_bot) • **Чат в Telegram:** [@dv_net_support_chat](https://t.me/dv_net_support_chat) • **Discord:** [discord.gg/fh7D2B4Jx6](https://discord.gg/fh7D2B4Jx6)
+**Telegram:** [@dv_net_support_bot](https://t.me/dv_net_support_bot) • **Чат в Telegram:** [@dv_net_support_chat](https://t.me/dv_net_support_chat) • **Discord:** [discord.gg/QUXNWZdy](https://discord.gg/QUXNWZdy)
 
 **Email:** [support@dv.net](https://dv.net/#support) • **Сайт:** [dv.net](https://dv.net) • **Документация:** [docs.dv.net](https://docs.dv.net)
 

@@ -313,7 +313,7 @@ make build
 
 <div align="center">
 
-**Telegram:** [@dv_net_support_bot](https://t.me/dv_net_support_bot) • **Telegram 群组:** [@dv_net_support_chat](https://t.me/dv_net_support_chat) • **Discord:** [discord.gg/fh7D2B4Jx6](https://discord.gg/fh7D2B4Jx6)
+**Telegram:** [@dv_net_support_bot](https://t.me/dv_net_support_bot) • **Telegram 群组:** [@dv_net_support_chat](https://t.me/dv_net_support_chat) • **Discord:** [discord.gg/QUXNWZdy](https://discord.gg/QUXNWZdy)
 
 **邮箱:** [support@dv.net](https://dv.net/#support) • **网站:** [dv.net](https://dv.net) • **文档:** [docs.dv.net](https://docs.dv.net)
 
